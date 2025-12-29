@@ -1,0 +1,1 @@
+This is a windows forms minsweeper game I made as a part of a course in college. It features a recursive function to find open spaces where there are no bombs nearby and a simple GUI on which to play the game.
